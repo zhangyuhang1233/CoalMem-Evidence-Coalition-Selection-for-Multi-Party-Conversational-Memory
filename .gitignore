@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.local
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Eval output / caches
+results/
+stores/
+logs/
